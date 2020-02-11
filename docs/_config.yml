@@ -17,7 +17,7 @@ url: "https://cynlliw.github.io"
 repository: "mmistakes/minimal-mistakes"
 author:
   name: CynlliWang
-  twitter: Towlette_Pettetucci
+  twitter: Sorry I have no twitter account,yet.
   picture: https://api.adorable.io/avatars/285/johndoe.png
 twitter_username: 
 github_username: CynlliWang
@@ -91,7 +91,7 @@ paginate_path: /page:num/
 
 # Collections
 collections:
-  recipes:
+  recipes: 
     output: true
     permalink: /:collection/:path/
 
