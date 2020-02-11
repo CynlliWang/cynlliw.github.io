@@ -9,18 +9,18 @@ remote_theme: "mmistakes/jekyll-theme-basically-basic"
 
 # Site Settings
 lang: en-US
-title: Basically Basic
-email: dugan.nash@mailinator.com
-description: "Your new default Jekyll theme"
+title: CynlliW's Bolg
+email: 13861775365@163.com
+description: "Bro my mind may be pout of here."
 baseurl: "/jekyll-theme-basically-basic"
 url: "https://mmistakes.github.io"
 repository: "mmistakes/minimal-mistakes"
 author:
-  name: Dugan Nash
+  name: CynlliWang
   twitter: Towlette_Pettetucci
   picture: https://api.adorable.io/avatars/285/johndoe.png
-twitter_username: Towlette_Pettetucci
-github_username: Towlette_Pettetucci
+twitter_username: 
+github_username: CynlliWang
 logo: /assets/icons/basically-basic-logo-light.svg
 google_analytics: UA-2011187-6
 disqus:
