@@ -12,8 +12,8 @@ lang: en-US
 title: CynlliW's Bolg
 email: 13861775365@163.com
 description: "Bro my mind may be pout of here."
-baseurl: "/jekyll-theme-basically-basic"
-url: "https://mmistakes.github.io"
+baseurl: "cynlliw.github.io"
+url: "https://cynlliw.github.io"
 repository: "mmistakes/minimal-mistakes"
 author:
   name: CynlliWang
@@ -25,6 +25,7 @@ logo: /assets/icons/basically-basic-logo-light.svg
 google_analytics: UA-2011187-6
 disqus:
   shortname: basically-basic-theme
+  
 search: true
 search_full_content: true
 search_provider: lunr
