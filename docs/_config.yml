@@ -12,7 +12,7 @@ lang: en-US
 title: CynlliW's Bolg
 email: 13861775365@163.com
 description: "Bro my mind may be pout of here."
-baseurl: "/blog"
+baseurl: "/cynlliwang.github.io"
 url: "https://cynlliw.github.io"
 repository: "mmistakes/minimal-mistakes"
 author:
