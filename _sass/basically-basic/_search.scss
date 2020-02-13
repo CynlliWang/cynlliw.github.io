@@ -1,101 +1,53 @@
 /* ==========================================================================
    SEARCH
    ========================================================================== */
-
-.search-toggle {
-  margin-left: 1rem;
-  margin-right: 1rem;
-  border: 0;
-  outline: none;
-  background-color: transparent;
-  cursor: pointer;
-  -webkit-transition: 0.2s;
-  transition: 0.2s;
-
-  .icon {
-    @include fluid-type($min-vw, $max-vw, 20px, 24px);
-    fill: $navicon-content-bg;
-  }
+.search {
+    position: relative;
+    height: 30px;
+    text-align: right;
+    line-height: 30px;
+    padding-right: 10px;
 }
-
-.search-content {
-  display: none;
-  visibility: hidden;
-  padding-top: 1em;
-  padding-bottom: 1em;
-
-  .inner {
-    padding: 0 0.5rem;
-
-    @include breakpoint($small) {
-      padding-right: 1rem;
-      padding-left: 1rem;
-    }
-
-    @include breakpoint($medium) {
-      padding-right: 2rem;
-      padding-left: 2rem;
-    }
-
-    @include breakpoint($large) {
-      padding-right: 3rem;
-      padding-left: 3rem;
-    }
-
-    @include breakpoint($xlarge) {
-      padding-right: 4rem;
-      padding-left: 4rem;
-    }
-  }
-
-  .entry-excerpt {
-    p {
-      margin-bottom: 0;
-    }
-  }
-
-  .search-input {
+.search .search-icon {
+    float: right;
+    height: 100%;
+    margin: 0 10px;
+    line-height: 30px;
+    cursor: pointer;
+    user-select: none;
+}
+.search .search-input {
+    float: right;
+    width: 30%;
+    height: 30px;
+    line-height: 30px;
+    margin: 0;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+.search .search-clear {
+    display: none;
+}
+.search .search-results {
     display: block;
-    margin-bottom: 0;
-    padding: 0;
-    border: none;
-    outline: none;
-    -webkit-box-shadow: none;
-    box-shadow: none;
-    background-color: transparent;
-    @include fluid-type($min-vw, $max-vw, 24px, 32px);
-  }
-
-  &.is--visible::after {
-    content: "";
-    display: block;
-  }
-
-  .results-found {
-    margin-top: 0.5em;
-  }
+    z-index: 1000;
+    position: absolute;
+    top: 30px;
+    right: 50px;
+    width: 50%;
+    max-height: 400px;
+    overflow: auto;
+    text-align: left;
+    border-radius: 5px;
+    background: #ccc;
+    box-shadow: 0 .3rem .5rem #333;
 }
-
-/* Algolia search */
-
-.ais-hits {
-  .entry {
-    border-bottom: 1px solid $border-color;
-  }
-}
-
-.ais-search-box {
-  max-width: 100% !important;
-  margin-bottom: 2em;
-}
-
-.entry-title .ais-Highlight {
-  color: $accent-color;
-  font-style: normal;
-  text-decoration: underline;
-}
-.entry-excerpt .ais-Highlight {
-  color: $accent-color;
-  font-style: normal;
-  font-weight: bold;
+.search .search-results .result-item {
+    background: aqua;
+    color: #000;
+    margin: 5px;
+    padding: 3px;
+    border-radius: 3px;
+    cursor: pointer;
 }
