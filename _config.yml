@@ -31,7 +31,8 @@ algolia:
   index_name: basically-basic
   search_only_api_key: 9d5014e5bbc77372547bce778dfa5663
   powered_by: # true (default), false
-
+markdown: kramdown
+theme: jekyll-theme-basically-basic
 
 plugins: # previously gems
   - jekyll-feed
