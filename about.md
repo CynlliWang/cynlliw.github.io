@@ -2,7 +2,7 @@
 title: "About"
 layout: about
 ---
-*toc
+* toc
 {:toc}
 
 ## Something about the site:
