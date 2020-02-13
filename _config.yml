@@ -128,3 +128,27 @@ JB :
   # and include your custom code. Your custom file must be defined at:
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
+  
+  # Collections
+collections:
+  recipes:
+    output: true
+    permalink: /:collection/:path/
+
+# Front Matter Defaults
+defaults:
+  # _posts
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      read_time: true
+  # _recipes
+  - scope:
+      path: "_recipes"
+      type: recipes
+    values:
+      layout: post
+      read_time: true
+
