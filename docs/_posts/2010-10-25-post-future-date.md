@@ -13,7 +13,7 @@ last_modified_at: 2020-02-10T12:45:25-05:00
 ## 混合物
 
 * 溶液：分散系粒子直径<1nm「e.g.蔗糖溶液」
-* 胶体：分散系粒子直径1～100nm，**存在丁达尔效应**  ，不能透过半透膜「Fe(OH)<sub>3<\sub>胶体，淀粉胶体」
+* 胶体：分散系粒子直径1～100nm，**存在丁达尔效应**  ，不能透过半透膜「Fe(OH)<sub>3</sub>胶体，淀粉胶体」
 >胶体呈电中性，胶体粒子带电荷
 * 浊液：
     * 悬浊液：分散系粒子直径>100nm，**久置沉淀** ，不能透过滤纸、半透膜，不稳定「泥水、石灰乳」
@@ -22,7 +22,7 @@ last_modified_at: 2020-02-10T12:45:25-05:00
 ***
 
 ## 酸
-* 强酸：HClO<sub>3<\sub>,HI,HBr,HCl,H<sub>2<\sub>SO<sub>4<\sub>,HNO<sub>3<\sub> 
+* 强酸：HClO<sub>3</sub>,HI,HBr,HCl,H<sub>2<\sub>SO<sub>4<\sub>,HNO<sub>3<\sub> 
 > 高氯氢碘氢溴酸，还有硝酸和盐酸
 * 弱酸：H<sub>2<\sub>SiO<sub>3<\sub>,HCN,H<sub>2<\sub>CO<sub>3<\sub>,H<sub>2<\sub>S,HClO,HONC,H<sub>2<\sub>SO<sub>3<\sub>$
 * 氧化性酸：HNO<sub>3<\sub>,HClO
