@@ -24,7 +24,7 @@ last_modified_at: 2020-02-10T12:45:25-05:00
 ## 酸
 * 强酸：HClO <sub> 3 </sub> ,HI,HBr,HCl,H <sub> 2 </sub> SO <sub> 4 </sub> ,HNO <sub> 3 </sub> 
 > 高氯氢碘氢溴酸，还有硝酸和盐酸
-* 弱酸：H <sub> 2 </sub> SiO <sub> 3</sub> ,HCN,H <sub> 2 </sub> CO <sub> 3 </sub> ,H <sub> 2 </sub> S,HClO,HONC,H <sub> 2 </sub> SO <sub> 3 </sub>
+* 弱酸：H <sub> 2 </sub> SiO <sub> 3 </sub> ,HCN,H <sub> 2 </sub> CO <sub> 3 </sub> ,H <sub> 2 </sub> S,HClO,HONC,H <sub> 2 </sub> SO <sub> 3 </sub>
 * 氧化性酸：HNO <sub> 3 </sub> ,HClO
 * 还原性酸：H <sub> 2 </sub> SO <sub> 3 </sub> ,H <sub> 2 </sub> C <sub> 2 </sub> O <sub> 4 </sub>
 * 不稳定性酸：HClO,HNO <sub> 3 </sub>
