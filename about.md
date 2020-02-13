@@ -2,6 +2,9 @@
 title: "About"
 layout: about
 ---
+*toc
+{:toc}
+
 ## Something about the site:
 This site is powered by GitHub Pages.
 
