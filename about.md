@@ -2,8 +2,9 @@
 title: "About"
 layout: about
 ---
-Something about the site:
+## Something about the site:
 This site is powered by GitHub Pages.
+
 This blog may content:
 * Study materials,updated as the author prograss.
 * Fanfiction
@@ -14,7 +15,7 @@ You can check the slide bar for archived items.
 
 ***
 
-Something about the author:
+## Something about the author:
 
 Hi,there.I'm Cynlli Wang,the author of this site.
 If you have any questions or suggestions,please contact me at once.
@@ -27,7 +28,7 @@ Wechat: ti2333333
 
 ***
 
-Something about this theme:
+## Something about this theme:
 
 Basically Basic is a [Jekyll theme](https://jekyllrb.com/docs/themes/) meant as a substitute for the default --- [Minima](https://github.com/jekyll/minima). Conventions and features found there are fully supported by **Basically Basic**, with a few enhancements thrown in for good measure:
 
