@@ -12,13 +12,22 @@ highlighter: rouge
 #
 title : CynlliW's Blog
 tagline: Code, Science, Philosophy, Humor
+email: 13861775365@163.com
+description: "Bro my mind may be out of here."
 author :
   name : CynlliWang
   email : 13861775365@163.com
   github : CynlliWang
   twitter :
   feedburner :
+github_username: CynlliWang
+logo:  /assets/icons/basically-basic-logo-light.svg
 
+plugins: # previously gems
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
 # Most places will/should use BASE_PATH to make the urls
