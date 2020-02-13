@@ -8,8 +8,7 @@ This blog may content:
 * Study materials,updated as the author prograss.
 * Fanfiction
 * Personal Works
-* How I live in this world
-* Everything that helps you congnize me(If you like). 
+* Mostly everything that helps you congnize me(If you like). 
 
 You can check the slide bar for archived items.
 
