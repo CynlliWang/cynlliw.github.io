@@ -22,7 +22,7 @@ last_modified_at: 2017-03-09T12:45:25-05:00
 ***
 
 ## 酸
-* 强酸：$HClO_4,HI,HBr,HCl,H_2SO_4,HNO_3$
+* 强酸：$ HClO_4,HI,HBr,HCl,H_2SO_4,HNO_3 $
 > 高氯氢碘氢溴酸，还有硝酸和盐酸
 * 弱酸：$$H_2SiO_3,HCN,H_2CO_3,H_2S,HClO,HONC,H_2SO_3$
 * 氧化性酸：$HNO_3,HClO$
