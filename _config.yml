@@ -25,9 +25,8 @@ logo:  /assets/icons/basically-basic-logo-light.svg
 
 search: true
 search_full_content: true
-search_provider: luna
+search_provider: search-box
 markdown: kramdown
-theme: jekyll-theme-basically-basic
 
 plugins: # previously gems
   - jekyll-feed
