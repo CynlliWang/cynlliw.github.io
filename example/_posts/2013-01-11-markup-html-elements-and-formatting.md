@@ -13,7 +13,7 @@ last_modified_at: 2017-01-14T10:55:59-05:00
 | --- | --- |
 | B(OH) <sub> 3 </sub> | HBO  <sub> 2 </sub> |
 | C(OH) <sub> 4 </sub> | H <sub> 2 </sub> CO  <sub> 3 </sub> |
-| N(OH)5|HNO <sub> 3 </sub> |
+| N(OH)5 | HNO <sub> 3 </sub> |
 | N(OH) <sub> 3 </sub> | HNO <sub> 2 </sub> |
 | | HF |
 | Al(OH) <sub> 3 </sub> | HAl <sub> 2 </sub> |
@@ -22,11 +22,11 @@ last_modified_at: 2017-01-14T10:55:59-05:00
 | |HPO <sub> 3 </sub> |
 | P(OH) <sub> 3 </sub> | H <sub> 3 </sub> PO <sub> 3 </sub>|
 | |HPO <sub> 2 </sub> |
-| S(OH) <sub> 6 </sub>|H <sub> 2 </sub> SO <sub> 24 </sub> |
-| S(OH) <sub> 4 </sub>|H <sub> 2 </sub> SO <sub> 3 </sub> |
+| S(OH) <sub> 6 </sub> | H <sub> 2 </sub> SO <sub> 24 </sub> |
+| S(OH) <sub> 4 </sub> | H <sub> 2 </sub> SO <sub> 3 </sub> |
 | | H <sub> 2 </sub> S |
 | | H <sub> 2 </sub> S <sub> 2 </sub> O <sub> 3 </sub> |
 | Cl(OH) <sub> 7 </sub> | HClO <sub> 7 </sub> |
 | Cl(OH) <sub> 5 </sub> | HClO <sub> 3 </sub> |
-| Cl(OH) | HCl。|
+| Cl(OH) | HCl |
 >卤族元素F，Cl，Br，I可替换
