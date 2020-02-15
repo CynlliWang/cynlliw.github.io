@@ -22,7 +22,7 @@ last_modified_at: 2017-01-14T10:55:59-05:00
 | P(OH) <sub> 5 </sub> | H <sub> 3 </sub>PO <sub> 4 </sub> |
 | | HPO <sub> 3 </sub> |
 | P(OH) <sub> 3 </sub> | H <sub> 3 </sub> PO <sub> 3 </sub>|
-| |HPO <sub> 2 </sub> |
+| | HPO <sub> 2 </sub> |
 | S(OH) <sub> 6 </sub> | H <sub> 2 </sub> SO <sub> 24 </sub> |
 | S(OH) <sub> 4 </sub> | H <sub> 2 </sub> SO <sub> 3 </sub> |
 | | H <sub> 2 </sub> S |
