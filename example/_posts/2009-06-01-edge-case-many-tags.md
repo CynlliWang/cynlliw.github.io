@@ -1,49 +1,20 @@
 ---
-title: "Edge Case: Many Tags"
+title: "艾宾浩斯记忆法"
 categories:
-  - Edge Case
+  - Life Hack
 tags:
-  - 8BIT
-  - alignment
-  - Articles
-  - captions
-  - categories
-  - chat
-  - comments
-  - content
-  - css
-  - dowork
-  - edge case
-  - embeds
-  - excerpt
-  - Fail
-  - featured image
-  - FTW
-  - Fun
-  - gallery
-  - html
-  - image
-  - Jekyll
-  - layout
-  - link
-  - Love
-  - markup
-  - Mothership
-  - Must Read
-  - Nailed It
-  - Pictures
-  - Post Formats
-  - quote
-  - standard
-  - Success
-  - Swagger
-  - Tags
-  - template
-  - title
-  - twitter
-  - Unseen
-  - video
-  - YouTube
+  - study
 ---
 
-This post has many tags.
+遗忘随记忆的流逝先快后慢，特别是在刚刚识记的短时间内。参照艾宾浩斯遗忘曲线所揭示的该记忆规律，对所学知识进行及时复习、记忆效果自测，是艾宾浩斯记忆法的主要方式。
+
+*** 
+  
+## 记忆周期
+
+|短期记忆|长期记忆|超长期记忆|
+|---|---|---|
+|5 min|2 d|1 m|
+|30 min|4 d|3 m|
+|12 h|7 d|6 m|
+|1 d|15 d||
