@@ -4,6 +4,7 @@ categories:
   - Life Hack
 tags:
   - study
+last_modified_at: 2020-02-20T14:25:52-05:00
 ---
 
 遗忘随记忆的流逝先快后慢，特别是在刚刚识记的短时间内。参照艾宾浩斯遗忘曲线所揭示的该记忆规律，对所学知识进行及时复习、记忆效果自测，是艾宾浩斯记忆法的主要方式。
@@ -19,6 +20,4 @@ tags:
 |12 h|7 d|6 m|
 |1 d|15 d||
 
-```html
-<img src="th.jpeg" class="align-left" alt="">
-```
+![left-aligned-image](th.jpeg){: .align-left}
