@@ -18,3 +18,7 @@ tags:
 |30 min|4 d|3 m|
 |12 h|7 d|6 m|
 |1 d|15 d||
+
+```html
+<img src="th.jpeg" class="align-left" alt="">
+```
