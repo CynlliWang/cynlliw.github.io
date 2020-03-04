@@ -38,7 +38,8 @@ src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js"
 ```
 
 ***
+
 <div>
-$ 2+2=5 $ 
+$2+2=5$ 
 </div>
 
