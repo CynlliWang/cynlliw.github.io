@@ -29,11 +29,12 @@ last_modified_at: 2020-03-04T15:33:37-04:00
 引擎警告说是网址弃用不更新,详见[MathJax CDN shutting down on April 30,2017.](http://link.zhihu.com/?target=https%3A//www.mathjax.org/cdn-shutting-down/)
 
 
-更改的代码块：
+更改的代码：
 
 ```html
 <script type="text/javascript" async
-src="?...">
-</script></script>https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js
+src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js"
 
 ```
+
+
