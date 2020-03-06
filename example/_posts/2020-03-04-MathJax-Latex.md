@@ -13,15 +13,20 @@ last_modified_at: 2020-03-04T15:33:37-04:00
 具体代码块：在 includes/head.html 中添加
 
 ```html
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 <script type="text/x-mathjax-config">
-  MathJax.Hub.Config({
+MathJax.Hub.Config({
+    jax: ["input/TeX", "output/HTML-CSS"],
     tex2jax: {
-      skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-      inlineMath: [['$','$']]
-    }
-  });
+        inlineMath: [ ['$', '$'] ],
+        displayMath: [ ['$$', '$$']],
+        processEscapes: true,
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+    },
+    messageStyle: "none",
+    "HTML-CSS": { preferredFont: "TeX", availableFonts: ["STIX","TeX"] }
+});
 </script>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 ```
 
 ***
@@ -43,4 +48,6 @@ last_modified_at: 2020-03-04T15:33:37-04:00
 
 ### Test
 
-$h(x) = \theta_0 + \theta_1 x$
+$h(x) = \theta_0 + \theta_1$
+
+OHHHHHHHHHH YAEH IT WORKS
