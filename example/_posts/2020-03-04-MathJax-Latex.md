@@ -37,7 +37,11 @@ last_modified_at: 2020-03-04T15:33:37-04:00
 
 ```
 
+以及更多[MathJax](https://www.mathjax.org/#gettingstarted)的使用指导。
+
 ***
 
-\( 2 + 2 = 5 \)
+### Test
 
+\( 2 + 2 = 5 \)
+\( 2^2 + \sqrt{b^2+3}\)
