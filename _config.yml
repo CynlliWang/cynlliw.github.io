@@ -95,13 +95,11 @@ JB :
   # Set 'provider' to the comment provider you want to use.
   # Set 'provider' to false to turn commenting off globally.
   #
-  comments :
-    provider : gitalk
-    gitalk:
-      clientID: 720075c6d0ba73e87cd0
-      clientSecret: 7127dcf207a34517ba7178d5a791c3613c64946d
-      repo: CynlliWang.github.io
-      owner: CynlliWang
+  gitalk:
+    clientID: 720075c6d0ba73e87cd0
+    clientSecret: 7127dcf207a34517ba7178d5a791c3613c64946d
+    repo: CynlliWang.github.io
+    owner: CynlliWang
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
   # Set 'provider' to false to turn analytics off globally.
