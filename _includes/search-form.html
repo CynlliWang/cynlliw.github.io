@@ -4,12 +4,12 @@
     {%- assign search_provider = site.search_provider | default: "lunr" -%}
     {%- case search_provider -%}
       {%- when "lunr" -%}
-      <div class="inner">
-      <div class="search-container">
-      <input type="text" id="search-input" placeholder="search blog posts...">
-      <ul id="results-container"></ul>
-      {%- when "algolia" -%}
         <div tabindex="-1" class="search-searchbar"></div>
+        <div class="inner">
+        <input type="text" id="search-input" placeholder="search blog posts...">
+        <ul id="results-container"></ul>
+      {%- when "algolia" -%}
+        
         <div class="search-hits"></div>
     {%- endcase -%}
   {% endif %}
