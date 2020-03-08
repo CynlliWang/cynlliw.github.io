@@ -24,9 +24,9 @@ github_username: CynlliWang
 logo:  /assets/icons/PNG图像.png
 
 
-search: ture  
+## search: ture  
 ##search_full_content: true
-search_provider: simple-jekyll-search
+##search_provider: simple-jekyll-search
 markdown: kramdown
 
 plugins: # previously gems
