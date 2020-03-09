@@ -48,6 +48,17 @@ MathJax.Hub.Config({
 
 $$h(x)=\theta_0+\theta_1$$
 
-$ax^2 + bx + c = 0$
+$$ax^2 + bx + c = 0$$
 
-OHHHHHHHHHH YAEH IT WORKS
+* 无法渲染，怀疑官方cdn访问过慢，更改为国内BootCDN:
+```html
+<script src="//cdn.bootcss.com/mathjax/2.7.0/MathJax.js?config=Tex-AMS-MML_HTMLorMML"></script>
+```
+* 这个js还是会调用MathJax官方的配置js文件，所以添加dns-prefetch用于网页加速
+```html
+<link rel="dns--prefetch" href="//cdn.boots.com"/>
+```
+* 还是他媽的渲染不出，改用了火狐
+* SHITE
+* 渲染成功，具体方式：在空间里骂娘然后他就好了
+
