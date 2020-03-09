@@ -29,16 +29,6 @@ MathJax.Hub.Config({
 
 ***
 
-引擎警告说是网址弃用不更新,详见[MathJax CDN shutting down on April 30,2017.](http://link.zhihu.com/?target=https%3A//www.mathjax.org/cdn-shutting-down/)
-
-
-更改的代码：
-
-```html
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-
-```
 
 以及更多[MathJax](https://www.mathjax.org/#gettingstarted)的使用指导。
 
@@ -50,15 +40,26 @@ $$h(x)=\theta_0+\theta_1$$
 
 $$ax^2 + bx + c = 0$$
 
+* 引擎警告说是网址弃用不更新,详见[MathJax CDN shutting down on April 30,2017.](http://link.zhihu.com/？target=https%3A//www.mathjax.org/cdn-shutting-down/)，更改如下：
+
+```html
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+```
+
 * 无法渲染，怀疑官方cdn访问过慢，更改为国内BootCDN:
+
 ```html
 <script src="//cdn.bootcss.com/mathjax/2.7.0/MathJax.js?config=Tex-AMS-MML_HTMLorMML"></script>
 ```
 * 这个js还是会调用MathJax官方的配置js文件，所以添加dns-prefetch用于网页加速
+
 ```html
 <link rel="dns--prefetch" href="//cdn.boots.com"/>
 ```
+
 * 还是他媽的渲染不出，改用了火狐
 * SHITE
-* 渲染成功，具体方式：在空间里骂娘然后他就好了
+* 渲染成功，具体方式：骂它。
 
