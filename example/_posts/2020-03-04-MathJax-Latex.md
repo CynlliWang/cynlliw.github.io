@@ -48,6 +48,6 @@ MathJax.Hub.Config({
 
 $$h(x)=\theta_0+\theta_1$$
 
- <p>$ax^2 + bx + c = 0$</p>
+$ax^2 + bx + c = 0$
 
 OHHHHHHHHHH YAEH IT WORKS
