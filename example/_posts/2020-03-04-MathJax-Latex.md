@@ -46,6 +46,6 @@ MathJax.Hub.Config({
 
 ### Test
 
-$h(x)=\theta_0+\theta_1$
+$$h(x)=\theta_0+\theta_1$$
 
 OHHHHHHHHHH YAEH IT WORKS
