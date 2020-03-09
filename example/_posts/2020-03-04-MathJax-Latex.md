@@ -1,9 +1,7 @@
 ---
-title: "在GithubPages上支持MathJax(Latex)"
+title: "MathJax(Latex)"
 categories:
-  - Post Formats
-tags:
-  - Post Formats
+  - Jekyll
 last_modified_at: 2020-03-04T15:33:37-04:00
 ---
 
@@ -48,6 +46,6 @@ MathJax.Hub.Config({
 
 ### Test
 
-$ h(x) = \theta_0 + \theta_1 $
+$h(x) =\theta_0+\theta_1$
 
 OHHHHHHHHHH YAEH IT WORKS
